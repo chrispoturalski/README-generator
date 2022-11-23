@@ -1,7 +1,7 @@
 // TODO: Include packages needed for this application
 const inquirer = require('inquirer');
 //require the following function in 
-const generateMarkdown = require('./assets/utils/generateMarkdown');
+const generateMarkdown = require('./utils/generateMarkdown');
 const fs = require('fs');
 //const { default: choices } = require('inquirer/lib/objects/choices');
 

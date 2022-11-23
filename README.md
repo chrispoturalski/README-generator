@@ -1,10 +1,10 @@
-# README Generator
+# Project-09 Node README-file generator
 
-[![License: MPL 2.0](https://img.shields.io/badge/License-MPL_2.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
+[![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)
 
 ## Description
 
-In this project, we were assigned to create a README generator from the class items that we had learned within the past week and to apply our skills to create a program that will allow us to save time in the future when creating README files.
+Working with node
 
 ![Image 1](Project-image.png)
 
@@ -23,7 +23,7 @@ Here is the deployed link to the project: N/a
 
 ## Instructions
 
-You have to download inquirer.
+run a function to download inquirer
 
 ## Usage
 
@@ -31,7 +31,7 @@ N/a
 
 ## Credits
 
-I credit the instructors of the UCI Bootcamp to help guide me with this assignment.
+UCI Bootcamp professors
 
 ## Contributers
 
@@ -39,7 +39,7 @@ N/a
 
 ## Testing 
 
-Open the directory to the README-genator tab. In the terminal type in "node index.js" and then answer the prompted questions.
+Open integrated terminal, and type node index.js, then answer following questions
 
 ## Questions
 

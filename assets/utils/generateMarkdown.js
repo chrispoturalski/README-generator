@@ -20,6 +20,30 @@ ${data.license}
 
 ${data.description}
 
+## Instructions
+
+${data.instructions}
+
+## Usage
+
+${data.usage}
+
+## Credits
+
+${data.credit}
+
+## Contributers
+
+${data.contributers}
+
+## Testing 
+
+${data.testing}
+
+## Questions
+
+${data.questions}
+
 `;
 }
 

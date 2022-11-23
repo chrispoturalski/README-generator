@@ -1,8 +1,8 @@
-# Project-9
+# Project-09
 
-No licenses were used in this project
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
 
-This is the UCI Bootcamp Challenge 9
+Node Homework Challenge
 

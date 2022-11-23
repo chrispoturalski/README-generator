@@ -4,11 +4,14 @@
 
 ## Description
 
-Working with node
+In this project, we were tasked with creating a README generator. As we create projects, we have to create a README to allow our users to see
+what the project will be about, our testing information, and how to contribute in the future. Using inquirer, we are now allowed to answer questions
+and they will be saved and created directly so we won't forget any thing for our future projects when creating a README. It is already laid out and 
+easy to use.
 
 ![Image 1](Project-image.png)
 
-Here is the deployed link to the project: N/a
+Here is the deployed link to the project: There is no deployed link to this project.
 
 ## Table of Contents
 
@@ -23,7 +26,7 @@ Here is the deployed link to the project: N/a
 
 ## Instructions
 
-run a function to download inquirer
+Our first step is that we had to create a function and download inquirer.
 
 ## Usage
 

@@ -42,7 +42,9 @@ ${data.testing}
 
 ## Questions
 
-${data.questions}
+To view all of my projects, you can view them on my Github profile -  ${data.github}.
+
+If you have any questions about my project, you can reach me via email at - ${data.email}.
 
 `;
 }

@@ -1,32 +1,34 @@
-# sldjf
+# Project-09
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)
 
 ## Description
 
-asjldf
+Testing out Node
 
 ## Instructions
 
-alskdjf
+N/a
 
 ## Usage
 
-
+N/a
 
 ## Credits
 
-sdf
+UCI Bootcamp professors for guiding the way to start this assignment.
 
 ## Contributers
 
-sldjkf
+N/a
 
 ## Testing 
 
-
+1.) Open an integrated terminal in directory. 2.) Type in "node index.js" and run the program.
 
 ## Questions
 
+To view all of my projects, you can view them on my Github profile -  chrispoturalski.
 
+If you have any questions about my project, you can reach me via email at - chrispotural@gmail.com.
 

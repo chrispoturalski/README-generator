@@ -24,6 +24,11 @@ const questions = [
         name: 'description'
     },
     {
+        type: 'input',
+        message: 'Please attached the deployed link to your project.',
+        name: 'link',
+    },
+    {
         type: 'list',
         message: 'What type of license is your project?',
         name: 'license',
@@ -68,6 +73,12 @@ const questions = [
         type: 'input',
         message: 'What is your email address?',
         name: 'email',
+        
+    },
+    {
+        type: 'input',
+        message: 'Would you like to upload an image to your project?',
+        name: 'image',
         
     },
 ];

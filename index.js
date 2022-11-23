@@ -3,7 +3,7 @@ const inquirer = require('inquirer');
 //require the following function in 
 const generateMarkdown = require('./assets/utils/generateMarkdown');
 const fs = require('fs');
-const { default: choices } = require('./assets/node_modules/inquirer/lib/objects/choices');
+//const { default: choices } = require('inquirer/lib/objects/choices');
 
 
 // TODO: Create an array of questions for user input
@@ -35,11 +35,6 @@ const questions = [
         ]
     },
     {
-        type: 'list',
-        message: 'Here are the table of contents',
-        name: 'table of contents'
-    },
-    {
         type: 'input',
         message: 'What were the installation instructions?',
         name: 'instructions'
@@ -66,8 +61,14 @@ const questions = [
     },
     {
         type: 'input',
-        message: 'What are some questions to be answered?',
-        name: 'questions'
+        message: 'What is your Github account name?',
+        name: 'questions',
+    },
+    {
+        type: 'input',
+        message: 'What is your email address?',
+        name: 'questions',
+        
     },
 ];
 
@@ -91,10 +92,7 @@ init();
 
 
 
-//WHEN I am prompted for information about my application repository
-//THEN a high-quality, professional README.md is generated with the title of my project and sections entitled Description, Table of Contents, Installation, Usage, License, Contributing, Tests, and Questions
-//WHEN I enter a description, installation instructions, usage information, contribution guidelines, and test instructions
-//THEN this information is added to the sections of the README entitled Description, Installation, Usage, Contributing, and Tests
+
 //WHEN I enter my GitHub username
 //THEN this is added to the section of the README entitled Questions, with a link to my GitHub profile
 //WHEN I enter my email address
